@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld_custom",
-  "textures": {
-    "layer0": "item/drops/cursed_ghast_tear"
-  }
-}

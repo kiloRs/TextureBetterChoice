@@ -1,6 +1,0 @@
-{
-  "parent": "item/bow/black_long_bow",
-  "textures": {
-    "layer0": "item/bow/red_bow_1"
-  }
-}

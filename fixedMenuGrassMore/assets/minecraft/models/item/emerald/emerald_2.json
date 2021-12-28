@@ -1,7 +1,0 @@
-{
-  "comment":"NONE",
-  "parent": "item/handheld_custom",
-  "textures": {
-    "layer0": "item/drops/emerald_2"
-  }
-}

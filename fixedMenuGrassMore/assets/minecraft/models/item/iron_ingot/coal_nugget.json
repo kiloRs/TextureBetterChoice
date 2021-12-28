@@ -1,6 +1,0 @@
-{
-	"parent": "item/holding",
-	"textures": {
-		"layer0": "item/iron_ingot/coal_nugget"
-	}
-}

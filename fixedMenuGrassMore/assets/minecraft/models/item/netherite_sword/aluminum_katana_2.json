@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "item/custom_swords/aluminum_katana_2"
-  }
-}

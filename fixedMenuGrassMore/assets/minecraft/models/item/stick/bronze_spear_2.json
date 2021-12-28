@@ -1,6 +1,0 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-      "layer0": "item/stick/bronze_spear_2"
-    }
-  }

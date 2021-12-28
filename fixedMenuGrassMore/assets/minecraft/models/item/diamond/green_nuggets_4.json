@@ -1,6 +1,0 @@
-{
-	"parent": "item/handheld_custom",
-	"textures": {
-		"layer0": "item/diamond/green_nuggets_4"
-	}
-}

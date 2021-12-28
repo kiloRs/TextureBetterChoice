@@ -1,6 +1,0 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "item/blaze_rod/black_steel_rod"
-	}
-}
